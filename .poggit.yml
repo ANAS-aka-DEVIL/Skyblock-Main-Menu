@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ANAS-aka-DEVIL/Skyblock-Main-Menu
+build-by-default: true
+branches:
+- main
+projects:
+  SBUI-MAIN-BY-DEVIL:
+    path: SBUI-MAIN-BY-DEVIL/
+...
